@@ -7,6 +7,7 @@ We will organize as the list grows.
 <br/>WaitButWhy
 <br/>OnBeing
 <br/>Aeon
+<br/> <a href="http://birthofidea.ist.utl.pt/#home">The birth of an idea</a> 
 
 <br/><b>YouTube Channels</b>
 <br/>Vsauce by Michael Stevens
