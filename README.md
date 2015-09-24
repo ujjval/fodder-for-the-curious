@@ -2,21 +2,21 @@
 It could be art, science, technology, philosophy and anything or everything that makes the time spent on the web worthwhile.
 We will organize as the list grows.
 
-Blogs
-Zen Pencils – Awesome Cartoon Quotes from Inspirational Folks
-WaitButWhy
-OnBeing
-Aeon
+<br/><b>Blogs</b>
+<br/>Zen Pencils – Awesome Cartoon Quotes from Inspirational Folks
+<br/>WaitButWhy
+<br/>OnBeing
+<br/>Aeon
 
-YouTube Channels
-Vsauce by Michael Stevens
-The School of Life
-HeadSqueeze
-Kurzgesagt - In a nut shell
-CrashCourses on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers
-minutephysics
-AsapScience
-Veritasium
+<br/><b>YouTube Channels</b>
+<br/>Vsauce by Michael Stevens
+<br/>The School of Life
+<br/>HeadSqueeze
+<br/>Kurzgesagt - In a nut shell
+<br/>CrashCourses on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers
+<br/>minutephysics
+<br/>AsapScience
+<br/>Veritasium
 
-Tv Shows
-Going Deep with David Rees – deep look in mundane chores and the things we often take for granted
+<br/><b>Tv Shows</b>
+<br/>Going Deep with David Rees – deep look in mundane chores and the things we often take for granted
