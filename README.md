@@ -10,10 +10,8 @@ We will organize as the list grows.
 [The birth of an idea](http://birthofidea.ist.utl.pt/#home) 
 
 #### YouTube Channels
-Vsauce by Michael Stevens
-
-The School of Life
-
+Vsauce by Michael Stevens  
+The School of Life  
 HeadSqueeze  
 Kurzgesagt - In a nut shell  
 CrashCourses on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers   
