@@ -3,11 +3,11 @@ It could be art, science, technology, philosophy and anything or everything that
 We will organize as the list grows.
 
 #### Blogs
-[Zen Pencils](zenpencils.com) – Awesome Cartoon Quotes from Inspirational Folks
-[WaitButWhy](waitbutwhy.com)
-[OnBeing](onbeing.org)
-[Aeon](http://aeon.co/magazine/) - profound and provocative articles to read ranging from philosophy, science to culture
-[The birth of an idea](http://birthofidea.ist.utl.pt/#home) 
+[Zen Pencils](zenpencils.com) – Awesome Cartoon Quotes from Inspirational Folks  
+[WaitButWhy](waitbutwhy.com)  
+[OnBeing](onbeing.org)  
+[Aeon](http://aeon.co/magazine/) - profound and provocative articles to read ranging from philosophy, science to culture  
+[The birth of an idea](http://birthofidea.ist.utl.pt/#home)   
 
 #### YouTube Channels
 Vsauce by Michael Stevens  
