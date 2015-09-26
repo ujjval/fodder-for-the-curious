@@ -11,8 +11,11 @@ We will organize as the list grows.
 
 #### YouTube Channels
 Vsauce by Michael Stevens
+
 The School of Life
+
 HeadSqueeze
+
 Kurzgesagt - In a nut shell
 CrashCourses on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers
 minutephysics
