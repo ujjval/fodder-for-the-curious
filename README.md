@@ -11,10 +11,10 @@ We will organize as the list grows.
 
 #### YouTube Channels
 [Vsauce](https://www.youtube.com/user/Vsauce) by Michael Stevens  
-[The School of Life](https://www.youtube.com/user/schooloflifechannel)  
-[HeadSqueeze](https://www.youtube.com/user/HeadsqueezeTV) with James May 
-[Kurzgesagt - In a nut shell](https://www.youtube.com/user/Kurzgesagt)  
-[CrashCourses](https://www.youtube.com/user/crashcourse) on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers & co.
+[The School of Life](https://www.youtube.com/user/schooloflifechannel)    
+[HeadSqueeze](https://www.youtube.com/user/HeadsqueezeTV) with James May   
+[Kurzgesagt - In a nut shell](https://www.youtube.com/user/Kurzgesagt)    
+[CrashCourses](https://www.youtube.com/user/crashcourse) on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers & co.    
 [minutephysics](https://www.youtube.com/user/minutephysics)  
 [AsapScience](https://www.youtube.com/user/AsapSCIENCE)  
 [Veritasium](https://www.youtube.com/user/1veritasium)
