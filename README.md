@@ -17,6 +17,7 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [Aeon](http://aeon.co/magazine/) - profound and provocative articles to read ranging from philosophy, science to culture   
 [The birth of an idea](http://birthofidea.ist.utl.pt/#home)   
 [Nautilus](http://nautil.us/) - about science and its endless connections with our lives  
+[Histography](http://histography.io/) - “Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015. Events are drawn from Wikipedia.  
 
 #### YouTube Channels  
 [Vsauce](https://www.youtube.com/user/Vsauce) by Michael Stevens  
