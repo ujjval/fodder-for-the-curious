@@ -27,7 +27,9 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [minutephysics](https://www.youtube.com/user/minutephysics)  
 [AsapScience](https://www.youtube.com/user/AsapSCIENCE)  
 [Veritasium](https://www.youtube.com/user/1veritasium)
-[PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, fandoms, games, technology and other ideas
+[PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, fandoms, games, technology and other ideas  
+[Smarter Every Day](https://www.youtube.com/user/destinws2) - High Definition/ High Speed videography of a lot of things  
+
 
 #### Tv Shows  
 Going Deep with David Rees – deep look in mundane chores and the things we often take for granted.   
