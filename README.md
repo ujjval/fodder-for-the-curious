@@ -11,12 +11,12 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [xkcd](http://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.  
 
 ##### Read  
-[what-if xkcd](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions
+[what-if xkcd](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions  
 [WaitButWhy](waitbutwhy.com) - read on things like The Elon Musk, Mars Colonization, Procrastination, AI revolution  
-[OnBeing](onbeing.org) -
-[Aeon](http://aeon.co/magazine/) - profound and provocative articles to read ranging from philosophy, science to culture  
+[OnBeing](onbeing.org) -  
+[Aeon](http://aeon.co/magazine/) - profound and provocative articles to read ranging from philosophy, science to culture   
 [The birth of an idea](http://birthofidea.ist.utl.pt/#home)   
-[Nautilus](http://nautil.us/) - about science and its endless connections with our lives
+[Nautilus](http://nautil.us/) - about science and its endless connections with our lives  
 
 #### YouTube Channels  
 [Vsauce](https://www.youtube.com/user/Vsauce) by Michael Stevens  
@@ -31,7 +31,7 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 
 #### Tv Shows  
 Going Deep with David Rees – deep look in mundane chores and the things we often take for granted   
-Ofcourse the [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) with John Oliver  
+Ofcourse the [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) with John Oliver   
 
 #### Other Interesting Things  
 Ig Noble Prize | [Improbable Research] (http://www.improbable.com) | [Channel] (https://www.youtube.com/user/ImprobableResearch)
