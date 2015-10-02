@@ -30,7 +30,7 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, fandoms, games, technology and other ideas
 
 #### Tv Shows  
-Going Deep with David Rees – deep look in mundane chores and the things we often take for granted   
+Going Deep with David Rees – deep look in mundane chores and the things we often take for granted.   
 Ofcourse the [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight) with John Oliver   
 
 #### Other Interesting Things  
