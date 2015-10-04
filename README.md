@@ -1,5 +1,5 @@
 # fodder-for-the-curious
-It could be art, science, technology, philosophy and anything or everything that makes the time spent on the web worthwhile.
+This is a curated list of things on the web. It could be art, science, technology, philosophy and anything or everything that makes the time spent on the web worthwhile.
 We will organize as the list grows.
 
 To quote Richard Feynman, *“Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”*  
