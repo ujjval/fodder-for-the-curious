@@ -8,7 +8,8 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 
 ##### Comics  
 [Zen Pencils](zenpencils.com) – Awesome Cartoon Quotes from Inspirational Folks  
-[xkcd](http://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.  
+[xkcd](http://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.   
+[List](http://io9.com/13-webcomics-that-will-make-you-smarter-1561374936) - A list of webcomics  
 
 ##### Read  
 [what-if xkcd](https://what-if.xkcd.com/) - Serious scientific answers to absurd hypothetical questions  
