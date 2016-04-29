@@ -31,15 +31,15 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [Kurzgesagt - In a nut shell](https://www.youtube.com/user/Kurzgesagt)    
 [CrashCourses](https://www.youtube.com/user/crashcourse) on World History, US History, Literature, Biology,  Ecology, Chemistry, and Psychology by Green Brothers & co.    
 [minutephysics](https://www.youtube.com/user/minutephysics)  
-[AsapScience](https://www.youtube.com/user/AsapSCIENCE)  
-[Veritasium](https://www.youtube.com/user/1veritasium)
+[AsapScience](https://www.youtube.com/user/AsapSCIENCE)   
+[Veritasium](https://www.youtube.com/user/1veritasium) 
 [PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, pizza, emojis, fandoms, games, technology and other ideas 
-[PBS Space Time Channel](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - all things about space time
-[The Physics Girls](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
+[PBS Space Time Channel](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - all things about space time  
+[The Physics Girls](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)  
 [Smarter Every Day](https://www.youtube.com/user/destinws2) - High Definition/ High Speed videography of a lot of things  
-[Nova's Secret Life of Scientists and Engineers](https://www.youtube.com/channel/UCABZAtnnnMbYHFr00-G54hA) - Ever thought that a neuroscientist could be an expert in Bullwhip? Miss Massachusetts was a biochemist? Watch people explaining science in 30 seconds.
-[DIY Scientific Experiments - Ravindra Godbole](https://www.youtube.com/channel/UCYzARpAOEgvP6cIxyEysWIA)
-[The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) - Think more deeply about science
+[Nova's Secret Life of Scientists and Engineers](https://www.youtube.com/channel/UCABZAtnnnMbYHFr00-G54hA) - Ever thought that a neuroscientist could be an expert in Bullwhip? Miss Massachusetts was a biochemist? Watch people explaining science in 30 seconds.  
+[DIY Scientific Experiments - Ravindra Godbole](https://www.youtube.com/channel/UCYzARpAOEgvP6cIxyEysWIA)  
+[The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) - Think more deeply about science  
 
 
 #### Tv Shows  
