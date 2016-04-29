@@ -21,6 +21,8 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [Nautilus](http://nautil.us/) - about science and its endless connections with our lives  
 [Histography](http://histography.io/) - “Histography" is interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015. Events are drawn from Wikipedia.  
 [BrainPickings](https://www.brainpickings.org/) - Maria Popova in her own words: https://www.brainpickings.org/about/  
+[Reddit ELI5](https://www.reddit.com/r/explainlikeimfive/) - Read folks explaining complex concepts in simple analogies like explaining to a 5 year old (though not literally :P) but friendly, simplified and layman-accessible explanations.
+
 
 ##### Video   
 [Vsauce](https://www.youtube.com/user/Vsauce) by Michael Stevens  
@@ -31,8 +33,13 @@ To quote Richard Feynman, *“Nobody ever figures out what life is all about, an
 [minutephysics](https://www.youtube.com/user/minutephysics)  
 [AsapScience](https://www.youtube.com/user/AsapSCIENCE)  
 [Veritasium](https://www.youtube.com/user/1veritasium)
-[PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, fandoms, games, technology and other ideas  
+[PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) - guide to common fallacies, pizza, emojis, fandoms, games, technology and other ideas 
+[PBS Space Time Channel](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) - all things about space time
+[The Physics Girls](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
 [Smarter Every Day](https://www.youtube.com/user/destinws2) - High Definition/ High Speed videography of a lot of things  
+[Nova's Secret Life of Scientists and Engineers](https://www.youtube.com/channel/UCABZAtnnnMbYHFr00-G54hA) - Ever thought that a neuroscientist could be an expert in Bullwhip? Miss Massachusetts was a biochemist? Watch people explaining science in 30 seconds.
+[DIY Scientific Experiments - Ravindra Godbole](https://www.youtube.com/channel/UCYzARpAOEgvP6cIxyEysWIA)
+[The Royal Institution](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) - Think more deeply about science
 
 
 #### Tv Shows  
